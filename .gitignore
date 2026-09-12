@@ -1,0 +1,10 @@
+/target
+/vendor/llama.cpp/build
+config/devices.toml
+bench/results.json
+bench/__pycache__
+.venv
+
+# never commit secrets
+.secrets/
+.claude/settings.local.json
