@@ -1,0 +1,4 @@
+requests>=2.31
+pytest>=8.0
+pandas>=2.2
+matplotlib>=3.8
