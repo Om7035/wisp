@@ -16,3 +16,6 @@ docs/
 
 # subagent-driven-development scratch workspace (ledgers, briefs, review packages)
 .superpowers/
+
+# manual git worktrees for parallel task tracks
+.worktrees/
