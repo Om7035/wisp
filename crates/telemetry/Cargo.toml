@@ -1,0 +1,9 @@
+[package]
+name = "telemetry"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+systemstat = "0.2"
+battery = "0.7"
