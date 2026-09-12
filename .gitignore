@@ -8,3 +8,8 @@ bench/__pycache__
 # never commit secrets
 .secrets/
 .claude/settings.local.json
+
+# planning/design docs and Claude project config: kept locally, not published
+.claude/
+ARCHITECTURE.md
+docs/
