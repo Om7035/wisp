@@ -13,3 +13,6 @@ bench/__pycache__
 .claude/
 ARCHITECTURE.md
 docs/
+
+# subagent-driven-development scratch workspace (ledgers, briefs, review packages)
+.superpowers/
